@@ -35,11 +35,14 @@ Entry point cho mọi AI làm việc với Lucifer.
 Repo này là bộ não trung tâm: lưu context, dự án, skill, quyết định, bài học và câu hỏi mở. Sau mỗi job quan trọng cần đánh giá bài học nào nên cập nhật ngược về repo.
 
 ## Channel strategy đã chốt
-Lạc Việt Media Agency định hướng 4 content vertical, ưu tiên TikTok nhưng phân phối đa nền tảng. Kiến trúc dài hạn đã duyệt:
+Lạc Việt Media Agency định hướng 3 content vertical (cập nhật 2026-08-13, thay thế cấu trúc 4 kênh cũ), ưu tiên TikTok nhưng phân phối đa nền tảng. Kiến trúc dài hạn đã duyệt:
 
-4 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
+3 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
 
 Chi tiết đọc CHANNEL_STRATEGY.md.
+
+## Claude Projects (routing) đã chốt
+6 Claude Projects vận hành song song, mỗi Project có context riêng trong `contexts/`. Chi tiết và cách phối hợp đọc `CLAUDE_PROJECTS.md`.
 
 ## Skill hiện tại
 - Web workflow skill: https://github.com/th6322750-stack/webbyLucifer
@@ -52,6 +55,8 @@ Chi tiết đọc CHANNEL_STRATEGY.md.
 - CHANNEL_STRATEGY.md
 - DO_NOT_DO.md
 - OPEN_QUESTIONS.md
+- CLAUDE_PROJECTS.md (cách 6 Claude Projects phối hợp)
+- contexts/ (context riêng cho từng Claude Project)
 
 Version: 0.1-draft
 Created: 2026-08-14

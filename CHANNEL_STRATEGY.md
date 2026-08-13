@@ -1,19 +1,23 @@
 # CHANNEL_STRATEGY.md
 
 ## Trạng thái
-Approved direction — 2026-08-14.
+Approved direction — 2026-08-14. Cập nhật cấu trúc kênh (4 → 3): APPROVED — 2026-08-13.
+
+## UPDATE LOG
+- 2026-08-13 — APPROVED: Chuyển từ 4 kênh xuống còn 3 kênh. Quyết định này **thay thế** quyết định "Cấu trúc 4 kênh" ban đầu (2026-08-14 trong lịch sử soạn thảo). Repo không giữ song song hai cấu trúc; mọi tài liệu tham chiếu "4 kênh" đã được cập nhật theo bản 3 kênh dưới đây. Lý do: gọn hơn, dễ vận hành hơn cho giai đoạn cá nhân/agency mới bắt đầu.
 
 ## Mục tiêu
-Lạc Việt Media Agency vận hành 4 content vertical chính. Mục tiêu chung của toàn hệ thống:
+Lạc Việt Media Agency vận hành 3 content vertical chính (đã thay thế cấu trúc 4 kênh cũ). Mục tiêu chung của toàn hệ thống:
 - Thu lead dịch vụ.
 - Tạo doanh thu trực tiếp từ content khi phù hợp.
 - Xây thương hiệu dài hạn.
 
-## Cấu trúc 4 kênh
-1. Kênh tổng / tổng hợp thương hiệu — tên chính thức sẽ nghiên cứu sau.
-2. Kênh support mạng xã hội — tên chính thức sẽ nghiên cứu sau.
-3. Kênh dịch vụ số — tên chính thức sẽ nghiên cứu sau.
-4. Kênh website / dịch vụ website doanh nghiệp — tên chính thức sẽ nghiên cứu sau.
+## Cấu trúc 3 kênh (APPROVED — thay thế cấu trúc 4 kênh cũ)
+1. **Kênh tổng Lạc Việt Media Agency** — thương hiệu Lạc Việt, dịch vụ support MXH, kháng nghị Facebook/TikTok, MMO/dịch vụ số liên quan, tin tức/case study/kiến thức truyền thông, nội dung thương hiệu, có thể test thêm niche mới.
+2. **Kênh Website** — thiết kế website doanh nghiệp, UI/UX, website audit, case study trước/sau, SEO, automation/AI cho doanh nghiệp. Mục tiêu chính: kéo khách làm website.
+3. **Kênh Dịch vụ tài khoản** — các tài khoản/dịch vụ số đang kinh doanh, review/tính năng/hướng dẫn, so sánh gói, nội dung chuyển đổi bán hàng, bổ sung sản phẩm mới dần theo thời gian.
+
+Tên chính thức từng kênh (branding cụ thể, tên hiển thị trên từng nền tảng) vẫn TBD — xem OPEN_QUESTIONS.md.
 
 ## Distribution
 - Định hướng đăng đồng thời trên nhiều nền tảng.
@@ -36,8 +40,8 @@ Lạc Việt Media Agency vận hành 4 content vertical chính. Mục tiêu chu
 - Hệ thống phải có log, trạng thái đăng, lỗi và khả năng kiểm tra lại.
 - Các thay đổi chiến lược lớn, thay đổi thương hiệu hoặc thay đổi business logic vẫn phải hỏi Lucifer.
 
-## Kiến trúc dài hạn đã chốt
-4 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
+## Kiến trúc dài hạn đã chốt (bản cập nhật — thay thế bản 4 kênh cũ)
+3 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
 
 ## Nguyên tắc học từ dữ liệu
 - Dùng dữ liệu thực tế để tối ưu chủ đề, hook, format, độ dài, lịch đăng và CTA.
