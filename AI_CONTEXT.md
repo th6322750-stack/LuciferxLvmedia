@@ -35,7 +35,7 @@ Entry point cho mọi AI làm việc với Lucifer.
 Repo này là bộ não trung tâm: lưu context, dự án, skill, quyết định, bài học và câu hỏi mở. Sau mỗi job quan trọng cần đánh giá bài học nào nên cập nhật ngược về repo.
 
 ## Channel strategy đã chốt
-Lạc Việt Media Agency định hướng 3 content vertical (cập nhật 2026-08-13, thay thế cấu trúc 4 kênh cũ), ưu tiên TikTok nhưng phân phối đa nền tảng. Kiến trúc dài hạn đã duyệt:
+Lạc Việt Media Agency định hướng 3 content vertical (cập nhật 2026-08-14, thay thế cấu trúc 4 kênh cũ), ưu tiên TikTok nhưng phân phối đa nền tảng. Kiến trúc dài hạn đã duyệt:
 
 3 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
 

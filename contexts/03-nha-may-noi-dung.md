@@ -1,6 +1,6 @@
 # Context — Nhà Máy Nội Dung – Kênh OS (Content Factory / Channel OS)
 
-Project 3/6. Quản lý 3 kênh content của Lạc Việt Media Agency (đã thay thế cấu trúc 4 kênh cũ, APPROVED 2026-08-13). Không lặp lại AI_CONTEXT.md — chỉ trỏ đường.
+Project 3/6. Quản lý 3 kênh content của Lạc Việt Media Agency (đã thay thế cấu trúc 4 kênh cũ, APPROVED 2026-08-14). Không lặp lại AI_CONTEXT.md — chỉ trỏ đường.
 
 ## Đọc trước khi làm việc
 1. `AI_CONTEXT.md`, `AI_WORKING_RULES.md`, `DO_NOT_DO.md` — bắt buộc, mọi project.
@@ -24,7 +24,7 @@ Công việc cụ thể: idea generation, research chủ đề, script, hook/CTA
 - Nghiên cứu mô hình kinh doanh mới trước khi có content về nó → R&D.
 
 ## APPROVED
-- Cấu trúc 3 kênh (thay thế 4 kênh cũ) — `CHANNEL_STRATEGY.md`, cập nhật 2026-08-13.
+- Cấu trúc 3 kênh (thay thế 4 kênh cũ) — `CHANNEL_STRATEGY.md`, cập nhật 2026-08-14.
 - Kiến trúc dài hạn: 3 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
 - TikTok ưu tiên ban đầu, repurpose sang Facebook Reels/YouTube Shorts/Instagram Reels và nền tảng phù hợp.
 - Auto publish được phép khi workflow/tài khoản đã cấu hình đúng, có log/trạng thái/khả năng kiểm tra lại.

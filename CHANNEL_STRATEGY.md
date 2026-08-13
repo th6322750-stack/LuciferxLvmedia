@@ -1,10 +1,10 @@
 # CHANNEL_STRATEGY.md
 
 ## Trạng thái
-Approved direction — 2026-08-14. Cập nhật cấu trúc kênh (4 → 3): APPROVED — 2026-08-13.
+Approved direction — 2026-08-14. Cập nhật cấu trúc kênh (4 → 3): APPROVED — 2026-08-14.
 
 ## UPDATE LOG
-- 2026-08-13 — APPROVED: Chuyển từ 4 kênh xuống còn 3 kênh. Quyết định này **thay thế** quyết định "Cấu trúc 4 kênh" ban đầu (2026-08-14 trong lịch sử soạn thảo). Repo không giữ song song hai cấu trúc; mọi tài liệu tham chiếu "4 kênh" đã được cập nhật theo bản 3 kênh dưới đây. Lý do: gọn hơn, dễ vận hành hơn cho giai đoạn cá nhân/agency mới bắt đầu.
+- 2026-08-14 — APPROVED: Chuyển từ 4 kênh xuống còn 3 kênh. Quyết định này **thay thế** quyết định "Cấu trúc 4 kênh" ban đầu (2026-08-14 trong lịch sử soạn thảo). Repo không giữ song song hai cấu trúc; mọi tài liệu tham chiếu "4 kênh" đã được cập nhật theo bản 3 kênh dưới đây. Lý do: gọn hơn, dễ vận hành hơn cho giai đoạn cá nhân/agency mới bắt đầu.
 
 ## Mục tiêu
 Lạc Việt Media Agency vận hành 3 content vertical chính (đã thay thế cấu trúc 4 kênh cũ). Mục tiêu chung của toàn hệ thống:

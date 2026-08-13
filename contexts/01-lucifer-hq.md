@@ -25,7 +25,7 @@ Project 1/6 trong bộ Claude Projects của Lucifer. Đây là project "gốc":
 
 ## APPROVED
 - Cấu trúc 6 Claude Projects (xem `CLAUDE_PROJECTS.md`).
-- Cấu trúc 3 kênh content (xem `CHANNEL_STRATEGY.md`) — thay thế cấu trúc 4 kênh cũ, 2026-08-13.
+- Cấu trúc 3 kênh content (xem `CHANNEL_STRATEGY.md`) — thay thế cấu trúc 4 kênh cũ, 2026-08-14.
 - Quyền GitHub: tạo branch/sửa/commit/push/mở PR, không tự merge (`DO_NOT_DO.md`).
 - Không lưu secret trong repo (`DO_NOT_DO.md`).
 
