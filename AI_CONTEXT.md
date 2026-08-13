@@ -18,6 +18,7 @@ Entry point cho mọi AI làm việc với Lucifer.
 - Thương hiệu đang phát triển: Lạc Việt Media Agency
 - Slogan: Cần Kiệm Liêm Chính
 - Mục tiêu 1-3 năm: hướng tới 3 tỷ VND
+- Sản phẩm vận hành trung tâm đang định hình: Lạc Việt Agency OS
 
 ## Quy tắc AI cốt lõi
 - Trả lời đầy đủ, tập trung, không hoa mỹ, không lan man, không emoji.
@@ -33,6 +34,13 @@ Entry point cho mọi AI làm việc với Lucifer.
 ## Central Brain
 Repo này là bộ não trung tâm: lưu context, dự án, skill, quyết định, bài học và câu hỏi mở. Sau mỗi job quan trọng cần đánh giá bài học nào nên cập nhật ngược về repo.
 
+## Channel strategy đã chốt
+Lạc Việt Media Agency định hướng 4 content vertical, ưu tiên TikTok nhưng phân phối đa nền tảng. Kiến trúc dài hạn đã duyệt:
+
+4 kênh -> AI Research -> Content Factory -> Auto Edit -> Auto Publish -> Analytics -> CRM Lead -> Sales -> Khách hàng -> AI học lại dữ liệu.
+
+Chi tiết đọc CHANNEL_STRATEGY.md.
+
 ## Skill hiện tại
 - Web workflow skill: https://github.com/th6322750-stack/webbyLucifer
 
@@ -41,8 +49,8 @@ Repo này là bộ não trung tâm: lưu context, dự án, skill, quyết đị
 - CAREER.md
 - AI_OPERATING_SCOPE.md
 - AI_WORKING_RULES.md
+- CHANNEL_STRATEGY.md
 - DO_NOT_DO.md
-- LEARNING_SYSTEM.md
 - OPEN_QUESTIONS.md
 
 Version: 0.1-draft
